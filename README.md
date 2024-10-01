@@ -10,3 +10,6 @@ STEP:-2 After creating the new connection of the STUDENTDB
     5. email: Student's email address.
     6. phone: Student's phone number.
   2. After creating the table insert the value and execution it.
+
+![Screenshot 2024-10-01 132915](https://github.com/user-attachments/assets/eba20ee6-220d-4f5f-85ca-933dc5cbaad0)
+
