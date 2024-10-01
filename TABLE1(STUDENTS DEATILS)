@@ -1,0 +1,14 @@
+CREATE TABLE students(
+student_id INTEGER,
+frist_name VARCHAR2(10),
+last_name VARCHAR2(10),
+Gmail VARCHAR2(25),
+dob DATE,
+phone VARCHAR2(15)
+);
+INSERT INTO students( student_id, frist_name, last_name, Gmail, dob, phone)
+VALUES(2,'sai', 'thanvish','saithanvish@gmail.com','23-nov-2004','9638527417');
+INSERT INTO students( student_id, frist_name, last_name, Gmail, dob, phone)
+VALUES(3,'hemanth','kumar','hemanthkumar@gmail.com','19-jul-2005','9856743218');
+
+select*from students;
