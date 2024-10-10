@@ -1,0 +1,14 @@
+CREATE TABLE Courses (
+    course_id INTEGER,
+    course_name VARCHAR2(100),
+    course_description VARCHAR2(500),
+    course_credits NUMBER CHECK (course_credits > 0)
+);
+INSERT INTO courses( course_id, course_name, course_description, course_credits)
+VALUES(1, 'C-PROGRAMMING', 'Learn the basics of the c- programming and function', 3);
+INSERT INTO courses( course_id, course_name, course_description, course_credits)
+VALUES(2, 'python programming', 'learn the basics of the python programming', 4);
+INSERT INTO courses( course_id, course_name, course_description, course_credits)
+VALUES(3, 'data sciense', 'learn the the data visulization and the deep learning', 5);
+
+SELECT * FROM Courses;
