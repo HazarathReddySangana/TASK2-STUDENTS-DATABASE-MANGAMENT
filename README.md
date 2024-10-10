@@ -21,6 +21,9 @@ Columns:
  3.course_description: Description of the course.
  4.course_credits: Number of credits the course is worth.
 
+![Screenshot 2024-10-10 083514](https://github.com/user-attachments/assets/7310e972-02f4-4563-b174-b3b4179e2bed)
+
+
 
  
 
