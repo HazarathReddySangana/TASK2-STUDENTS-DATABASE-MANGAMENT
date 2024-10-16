@@ -38,6 +38,10 @@ Columns:
 
 STEP:-4 using the joins in table
    After using the joins the output  of the table are
+
+![Screenshot 2024-10-16 182649](https://github.com/user-attachments/assets/d4c542e1-103a-4ced-8585-6bf5b945d76a)
+![Screenshot 2024-10-16 183240](https://github.com/user-attachments/assets/fc31ad26-480d-454f-9974-89623c40a73e)
+   
    
 
  
