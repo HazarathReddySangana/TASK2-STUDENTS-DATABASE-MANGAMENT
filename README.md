@@ -33,6 +33,9 @@ Columns:
  4.enrollment_date: Date of enrollment.
  5.grade: Grade achieved in the course.
 
+
+![Screenshot 2024-10-16 174414](https://github.com/user-attachments/assets/807e9fad-782e-4f83-ba68-e05a8b8f7fc7)
+
  
 
 
