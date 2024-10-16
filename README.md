@@ -36,6 +36,10 @@ Columns:
 
 ![Screenshot 2024-10-16 174414](https://github.com/user-attachments/assets/807e9fad-782e-4f83-ba68-e05a8b8f7fc7)
 
+STEP:-4 using the joins in table
+   After using the joins the output  of the table are
+   
+
  
 
 
