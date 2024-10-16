@@ -23,6 +23,18 @@ Columns:
 
 ![Screenshot 2024-10-10 083514](https://github.com/user-attachments/assets/7310e972-02f4-4563-b174-b3b4179e2bed)
 
+STEP:-4 Create the table with the table of the enrollments
+  1.Purpose: Manage the enrollment of students in courses and store their grades.
+
+Columns:
+ 1.enrollment_id: Unique identifier for each enrollment (auto-incremented).
+ 2.student_id: References Students.student_id.
+ 3.course_id: References Courses.course_id.
+ 4.enrollment_date: Date of enrollment.
+ 5.grade: Grade achieved in the course.
+
+ 
+
 
 
  
